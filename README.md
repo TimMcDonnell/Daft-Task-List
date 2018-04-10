@@ -1,2 +1,2 @@
-# Daft-Task-List
-Daft Task list using local storage, wrote is JS.
+# Daft Task List
+One page task list using local storage.
